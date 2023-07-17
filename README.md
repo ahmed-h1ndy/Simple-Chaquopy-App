@@ -9,7 +9,7 @@ Some starting points:
 
 Python script -> app/src/main/python/script.py
 
-Android code -> app/src/main/java/com/MainActivity.kt.
+Android code -> app/src/main/java/com/example/chaquopytrialMainActivity.kt.
 
 Chaquopy configuration -> app/build.gradle.
 

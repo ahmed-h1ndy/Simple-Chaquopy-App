@@ -7,7 +7,7 @@ Simple android app that uses a python script to sum two numbers and output the r
 
 Some starting points:
 
-Python script -> app/src/main/python/main.py
+Python script -> app/src/main/python/script.py
 
 Android code -> app/src/main/java/com/MainActivity.kt.
 
